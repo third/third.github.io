@@ -1,0 +1,7 @@
+.orientation-portrait {
+  display: none;
+}
+
+.orientation-landscape {
+  display: block;
+}
